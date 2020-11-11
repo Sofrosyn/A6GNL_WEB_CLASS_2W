@@ -14,15 +14,6 @@
     The <p> element defines a paragraph
 
 
-
-HTML Attributes
-
-    All HTML elements can have attributes
-    Attributes provide additional information about elements
-    Attributes are always specified in the start tag
-    Attributes usually come in name/value pairs like: name="value"
-
-
 HTML Headings
 
 HTML headings are defined with the <h1> to <h6> tags.
@@ -33,3 +24,35 @@ HTML Paragraphs
 
 The HTML <p> element defines a paragraph.
 A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
+
+
+
+HTML Attributes
+
+    All HTML elements can have attributes
+    Attributes provide additional information about elements
+    Attributes are always specified in the start tag
+    Attributes usually come in name/value pairs like: name="value"
+
+
+HTML TEXT FORMATTING
+
+The HTML <b> element defines bold text, without any extra importance.
+
+The HTML <strong> element defines text with strong importance. The content inside is typically displayed in bold.
+
+The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
+
+The HTML <em> element defines emphasized text. The content inside is typically displayed in italic.
+
+The HTML <small> element defines smaller text:
+
+The HTML <mark> element defines text that should be marked or highlighted:
+
+The HTML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
+
+The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text:
+
+The HTML <sub> element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like H2O:
+
+The HTML <sup> element defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font. Superscript text can be used for footnotes, like WWW[1]:
