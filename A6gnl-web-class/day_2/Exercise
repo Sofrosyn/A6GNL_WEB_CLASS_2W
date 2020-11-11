@@ -1,0 +1,43 @@
+Exercise 1:
+
+Use the correct HTML tag to add a heading with the text "Uyo" to the <p></p>.
+
+<p>Uyo is the capital city of Akwa Ibom state. It is the most peaceful city in Nigeria, with a metropolitan area of over 2 million inhabitants.</p> 
+
+
+Exercise 2:
+
+
+Mark up the text with appropriate tags:
+
+"Universal Studios Presents" is the most important heading.
+
+"Jurassic Park" is the next most important heading.
+
+"About" is the third most important heading.
+
+The last sentence is just a paragraph.
+
+Start with the most important heading (the largest) and end with the least important heading (the smallest).
+
+
+Exercise 3:
+
+Correct the document.
+
+<h1> This is a Heading
+
+p> This is a paragraph.
+
+
+Exercise 4: 
+
+Wrap this poem around HTML tags that will preserve all spaces and linebreaks when the element is displayed.
+
+ My Baby lies over the ocean.
+
+  My Baby lies over the sea.
+
+  My Baby lies over the ocean.
+
+  Oh, bring back my Baby to me. 

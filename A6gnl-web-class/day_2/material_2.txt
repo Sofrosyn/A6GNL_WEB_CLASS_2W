@@ -1,0 +1,35 @@
+
+    The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+   
+    The <html> element is the root element of an HTML page
+   
+    The <head> element contains meta information about the HTML page
+   
+    The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+   
+    The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+   
+    The <h1> element defines a large heading
+   
+    The <p> element defines a paragraph
+
+
+
+HTML Attributes
+
+    All HTML elements can have attributes
+    Attributes provide additional information about elements
+    Attributes are always specified in the start tag
+    Attributes usually come in name/value pairs like: name="value"
+
+
+HTML Headings
+
+HTML headings are defined with the <h1> to <h6> tags.
+<h1> defines the most important heading. <h6> defines the least important heading
+
+
+HTML Paragraphs
+
+The HTML <p> element defines a paragraph.
+A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
