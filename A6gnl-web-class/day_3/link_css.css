@@ -1,0 +1,12 @@
+h1 {
+
+    text-align: center;
+
+}
+a:hover {
+    color: black;
+
+}
+a:link{color: blueviolet;}
+a:visited {color: cadetblue;}
+a:active    {color:violet}
