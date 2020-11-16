@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+        <style> div.capital{background-color:black;color:aliceblue;padding:20px ;margin:20px}
+        </style>
+    </head>
+    <body>
+        <div class="capital">
+<h1>PERSONAL DETAILS</h1>
+        </div>
+        <h3>Provide your details correctly</h3>
+        <form action="action_page.php" method="POST">
+            Lastname:<br>
+            <input type="text" name="Lastname" value="Obot"></input><br>
+            Firstname:<br>
+            <input type="text" name="Firstname"></input><br>
+            Age:<br>
+            <input type="number" name="Age"></input><br>
+            <input type="radio" name="sex" value="male" >male</input><br>
+            <input type="radio" name="sex" value="female">female</input><br>
+            Date of birth:<br>
+            <input type="date" name="Date of Birth"><br>
+            <select name="State Of Origin"><br>
+                <option value="Abia">Abia</option>
+                <option value="Adamawa">Adamawa</option>
+                <option vanlue="Akwa Ibom">Akwa Ibom</option>
+                <option value="Anambra">Anambra</option>
+            </select><br>
+            Email:<br>
+            <input type="email" name="Email Address" value="example@gmail.com"><br>
+            <textarea type="message" rows="20" col="20">Tell us more about yourself</textarea><br>
+            Username:<br>
+            <input type="username" name="Username"><br>
+            Password:<br>
+            <input type="password" name="password">
+            <p>I hereby agree that all the information provided by me are accurate</p>
+            <input type="checkbox" name="I agree">I agree<br>
+            <input type="submit" value="submit">
+
+        </form>
+    </body>

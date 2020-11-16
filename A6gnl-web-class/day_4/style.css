@@ -1,0 +1,37 @@
+th {
+    text-align: left;
+   
+}
+table, th, td{
+    border: 3px blue;
+    width: 50%;
+
+}
+
+
+
+
+/*
+class
+*/
+
+ .city{
+
+background-color: aquamarine;
+}
+
+.state {
+
+background-color: blue;
+float: right;
+}
+
+
+#Header{
+    background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+
+  margin-top: 10px;
+}
