@@ -10,6 +10,7 @@ border-color: aquamarine;
 body {
 background-color: blue;
 
+
 }
 
 h1 {
@@ -17,4 +18,12 @@ h1 {
 text-align: center;
 color: chartreuse;
 
+
+
+
+
+}
+
+ol{
+   list-style-type: upper-alpha; 
 }
