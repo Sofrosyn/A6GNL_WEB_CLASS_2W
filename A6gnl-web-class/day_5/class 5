@@ -1,0 +1,78 @@
+Inline Elements
+
+An inline element does not start on a new line and it only takes up as much width as necessary.
+
+<a> <abbr>    <b> <bdo>  <br>
+ <label> <map>  
+<output> <q>   <select>
+<small> <span>  <strong>   <sub>
+
+Note: An inline element cannot contain a block-level element!
+
+
+Block-level Elements
+
+A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+
+<article>   <aside>   <div>   <footer>
+<form>  <header>    <nav>   <p>
+<pre>   <section>   <table> <ul>
+
+
+
+
+Block-level Elements
+
+> The <article> tag specifies independent, self-contained content.
+
+An article should make sense on its own and it should be possible to distribute it independently from the rest of the site.
+
+Potential sources for the <article> element:
+
+    Forum post
+    Blog post
+    News story
+    
+    
+> The <aside> tag defines some content aside from the content it is placed in.
+
+The aside content should be indirectly related to the surrounding content.
+
+Tip: The <aside> content is often placed as a sidebar in a document.    
+    
+    
+    
+> The <footer> tag defines a footer for a document or section.
+
+A <footer> element typically contains:
+
+    authorship information
+    copyright information
+    contact information
+    sitemap
+    back to top links
+    related documents
+
+You can have several <footer> elements in one document.    
+    
+    
+> The <header> element represents a container for introductory content or a set of navigational links.
+
+A <header> element typically contains:
+
+    one or more heading elements (<h1> - <h6>)
+    logo or icon
+    authorship information
+
+Note: You can have several <header> elements in one HTML document. However, <header> cannot be placed within a <footer>, <address> or another <header> element.    
+    
+
+> The <nav> tag defines a set of navigation links.
+
+Notice that NOT all links of a document should be inside a <nav> element. The <nav> element is intended only for major block of navigation links.
+
+Browsers, such as screen readers for disabled users, can use this element to determine whether to omit the initial rendering of this content.
+
+> Section
+    The <section> tag defines a section in a document.
